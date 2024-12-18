@@ -24,8 +24,7 @@
 
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-<img src="https://raw.githubusercontent.com/Ekanshthegreat/Ekanshthegreat/master/metrics.png" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/
-
+<img src="https://raw.githubusercontent.com/Ekanshthegreat/Ekanshthegreat/master/metrics.png" height="300em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>
 
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
