@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Ekanshthegreat/Ekanshthegreat/master/readme-gif.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond .li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+[<img src="https://raw.githubusercontent.com/Ekanshthegreat/Ekanshthegreat/master/readme-gif.gif"]
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Ekanshthegreat.Ekanshthregreat&color=00cf00)
 
