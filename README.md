@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Ekanshthegreat/Ekanshthegreat/master/readme-gif.gif"]
+[<img src="https://raw.githubusercontent.com/Ekanshthegreat/Ekanshthegreat/master/readme-gif.gif" />](https://dynamic-portfolio-pi.vercel.app/)
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Ekanshthegreat.Ekanshthregreat&color=00cf00)
 
