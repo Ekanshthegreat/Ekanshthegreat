@@ -2,64 +2,75 @@
 
 # Hey, I'm Ekansh 👋
 
-### I build systems that have to work when things get complicated.
+### Software engineer building reliable systems at the intersection of  
+### distributed infrastructure, AI, and robotics.
 
-Software Engineer · Distributed Systems · AI Infrastructure · Robotics
+<br>
 
-<br/>
+`distributed systems` &nbsp;•&nbsp; `AI infrastructure` &nbsp;•&nbsp; `robotics` &nbsp;•&nbsp; `developer tools`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://dynamic-portfolio-pi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ekansh-chawla)
-[![Hackaday](https://img.shields.io/badge/Hackaday-Hardware-111111?style=for-the-badge&logo=hackaday&logoColor=white)](https://hackaday.io/ekanshthegreat)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://dynamic-portfolio-pi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekansh-chawla)
+[![Hackaday](https://img.shields.io/badge/Hackaday-111111?style=for-the-badge&logo=hackaday&logoColor=white)](https://hackaday.io/ekanshthegreat)
 
 </div>
 
----
+<br>
 
-## `01.` About
+## 👋 A little about me
 
-I'm a Computer Science student at Simon Fraser University who likes working close to the difficult parts of software: distributed state, failures, concurrency, infrastructure, and increasingly, AI systems.
+I'm a Computer Science student at **Simon Fraser University** who enjoys working on the parts of software where things get interesting: distributed state, concurrency, failures, infrastructure, and increasingly, AI systems.
 
-I've worked across **AWS, Amazon, and Visier**, building everything from cloud infrastructure tooling and payment systems to LLM-powered analytics.
+I've worked across **AWS, Amazon, and Visier** on cloud infrastructure, large-scale payment systems, and LLM-powered analytics.
 
-Most of my side projects start the same way:
+Outside of work, I tend to build things because I want to understand how they work.
 
-> *"I wonder if I can build that."*
+> **"I wonder if I can build that."**  
+> Usually followed by disappearing into a project for a while.
 
-Then I disappear for a while.
+<br>
 
----
-
-## `02.` Some things I've worked on
+## ⚡ Things I've built
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ AWS CloudFormation
+<h3>☁️ CloudFormation Refactoring</h3>
 
-Built infrastructure tooling for moving resources safely between CloudFormation stacks.
+Infrastructure tooling for safely moving resources between AWS CloudFormation stacks.
 
-`Java` `DynamoDB` `Distributed Systems`
+<br>
 
-→ Dependency graph analysis  
-→ Transactional resource transfers  
-→ Concurrency + idempotency  
-→ Recovery from partial failures
+<code>Java</code> <code>DynamoDB</code> <code>Distributed Systems</code>
+
+<br><br>
+
+↳ Dependency graph analysis  
+↳ Transactional resource transfers  
+↳ Concurrency & idempotency  
+↳ Partial-failure recovery
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🤖 NodeAI
+<h3>🤖 NodeAI</h3>
 
 Real-time orchestration for fleets of **100+ simulated robots**.
 
-`Python` `FastAPI` `React` `WebSockets`
+<br>
 
-→ 10K+ telemetry events/min  
-→ A* routing  
-→ Dynamic task allocation  
-→ Automatic failure recovery
+<code>Python</code> <code>FastAPI</code> <code>React</code> <code>WebSockets</code>
+
+<br><br>
+
+↳ 10K+ telemetry events / minute  
+↳ A* routing  
+↳ Dynamic task allocation  
+↳ Automatic failure recovery
 
 </td>
 </tr>
@@ -67,54 +78,69 @@ Real-time orchestration for fleets of **100+ simulated robots**.
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Mentral.AI
+<h3>🧠 Mentral.AI</h3>
 
-An AI coding mentor that learns how a repository is written from its code and Git history.
+An AI coding mentor that learns a repository's conventions from its code and Git history.
 
-`TypeScript` `Gemini` `RAG` `AST`
+<br>
 
-→ Repository-aware retrieval  
-→ AST-based analysis  
-→ Git-history context  
-→ AI-generated code reviews
+<code>TypeScript</code> <code>Gemini</code> <code>RAG</code> <code>AST</code>
 
-**Hack the North Finalist**
+<br><br>
+
+↳ Repository-aware retrieval  
+↳ AST-based code analysis  
+↳ Git-history context  
+↳ AI-generated code reviews
+
+<br>
+
+🏆 **Hack the North Finalist**
 
 </td>
+
 <td width="50%" valign="top">
 
-### 💳 Amazon Payments
+<h3>💳 Amazon Payments</h3>
 
-Worked on infrastructure behind recurring payments across **10M+ subscription contracts**.
+Infrastructure behind recurring payments across **10M+ subscription contracts**.
 
-`Java` `Concurrency` `Distributed Systems`
+<br>
 
-→ Runtime state reconciliation  
-→ Idempotent execution  
-→ Deterministic recovery  
-→ High-concurrency optimization
+<code>Java</code> <code>Concurrency</code> <code>Distributed Systems</code>
+
+<br><br>
+
+↳ Runtime state reconciliation  
+↳ Idempotent execution  
+↳ Deterministic recovery  
+↳ High-concurrency optimization
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## `03.` What I'm interested in
+## 🧭 What I'm exploring
+
+I'm especially interested in the engineering required to turn powerful models into **reliable production systems**.
 
 ```text
-distributed systems     ███████████████████░
-AI infrastructure       ██████████████████░░
-robotics                ████████████████░░░░
-C++ / systems           ███████████████░░░░░
-building random things  ████████████████████
+Distributed Systems   ███████████████████░
+AI Infrastructure     ██████████████████░░
+Robotics              ████████████████░░░░
+C++ / Systems         ███████████████░░░░░
+Random Side Quests    ████████████████████
 ```
 
-Right now I'm especially interested in the engineering between increasingly capable models and reliable production systems: **inference, retrieval, evaluation, distributed infrastructure, and developer tools.**
+Currently going deeper on:
 
----
+**inference** · **retrieval** · **evaluation** · **distributed infrastructure** · **developer tools**
 
-## `04.` Toolbox
+<br>
+
+## 🛠️ Toolbox
 
 <div align="center">
 
@@ -127,7 +153,7 @@ Right now I'm especially interested in the engineering between increasingly capa
 ![Scala](https://img.shields.io/badge/Scala-111111?style=flat-square&logo=scala&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-111111?style=flat-square&logo=rust&logoColor=white)
 
-### Systems & Infrastructure
+### Infrastructure & Backend
 
 ![AWS](https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white)
@@ -137,40 +163,43 @@ Right now I'm especially interested in the engineering between increasingly capa
 
 ### AI & Robotics
 
-`LLMs` · `RAG` · `Embeddings` · `Semantic Retrieval` · `AST Analysis` · `ROS` · `SLAM`
+`LLMs` &nbsp; `RAG` &nbsp; `Embeddings` &nbsp; `Semantic Retrieval`  
+`AST Analysis` &nbsp; `ROS` &nbsp; `SLAM`
 
 </div>
 
----
+<br>
 
-## `05.` Away from the keyboard
+## 🚁 Outside the terminal
 
-I build and fly drones. 🚁
+I build and fly drones.
 
-I've also spent an unreasonable amount of time on robotics, autonomous aircraft, trading systems, and other projects that seemed like a good idea at 2 AM.
+I've also spent an unreasonable amount of time experimenting with **robotics, autonomous aircraft, trading systems, and hardware projects** that seemed like good ideas at 2 AM.
 
-A few things still on the bucket list:
+Still on the bucket list:
 
-- Contribute meaningful code to the Linux kernel
-- Build a serious autonomous robotic system from the ground up
-- Get much deeper into distributed systems and ML infrastructure
-- Keep building things that I don't yet know how to build
+- 🐧 Contribute meaningful code to the Linux kernel
+- 🤖 Build an autonomous robotic system from the ground up
+- 🧠 Go much deeper into distributed systems and ML infrastructure
+- 🛠️ Keep building things I don't yet know how to build
 
-Some of my hardware projects live on [Hackaday](https://hackaday.io/ekanshthegreat).
+Some of my hardware projects live over on **[Hackaday →](https://hackaday.io/ekanshthegreat)**
 
----
+<br>
 
-## `06.` GitHub Activity
+## 📈 GitHub
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ekanshthegreat/Ekanshthegreat/master/metrics.png" width="90%" alt="GitHub Metrics" />
+<img src="https://raw.githubusercontent.com/Ekanshthegreat/Ekanshthegreat/master/metrics.png" width="90%" alt="Ekansh's GitHub activity">
 
-<br/><br/>
+<br><br>
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Ekanshthegreat.Ekanshthegreat&color=00cf00)
 
 </div>
+
+<br>
 
 ---
 
@@ -178,6 +207,14 @@ Some of my hardware projects live on [Hackaday](https://hackaday.io/ekanshthegre
 
 ### Build things. Break things. Figure out why they broke.
 
-[Portfolio](https://dynamic-portfolio-pi.vercel.app/) · [GitHub](https://github.com/Ekanshthegreat) · [Hackaday](https://hackaday.io/ekanshthegreat) · [LinkedIn](YOUR_LINKEDIN_URL)
+<br>
+
+[**Portfolio**](https://dynamic-portfolio-pi.vercel.app/)
+&nbsp;•&nbsp;
+[**LinkedIn**](https://www.linkedin.com/in/ekansh-chawla)
+&nbsp;•&nbsp;
+[**GitHub**](https://github.com/Ekanshthegreat)
+&nbsp;•&nbsp;
+[**Hackaday**](https://hackaday.io/ekanshthegreat)
 
 </div>
