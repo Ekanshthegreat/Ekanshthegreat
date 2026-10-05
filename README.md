@@ -9,9 +9,7 @@ Software Engineer · Distributed Systems · AI Infrastructure · Robotics
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://dynamic-portfolio-pi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ekansh-chawla
-
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ekansh-chawla)
 [![Hackaday](https://img.shields.io/badge/Hackaday-Hardware-111111?style=for-the-badge&logo=hackaday&logoColor=white)](https://hackaday.io/ekanshthegreat)
 
 </div>
